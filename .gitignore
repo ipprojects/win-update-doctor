@@ -1,0 +1,12 @@
+# Execution logs
+logs/
+*.log
+
+# Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup archives
+*.bak*
+*.old*
